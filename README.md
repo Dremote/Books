@@ -1,8 +1,66 @@
 # Books
 - Charger/
+  - BC1.2_FINAL
+  - Qualcomm_QC3.0_Document
+  - SCP-D型快速充电协议规范V1.30G
+  - UFCS1.2测试方法
+  - UFCS2.0规范
+  - VFCP协议
+  - VOOC Phy单体测试报告
 - Linux/
+  - devicetree-specification-v0.3
+  - Linux Device Drivers 3rd Edition
+  - Linux-UNIX系统编程手册
+  - Linux命令参考
+  - Linux内核设计与实现(第三版中文高清带目录)
+  - Linux内核源代码情景分析
+  - Linux内核知识地图
+  - LINUX设备驱动程序(第3版)
+  - Linux设备驱动开发详解：基于最新的Linux4.0内核
+  - 深入Linux内核架构
+  - 深入理解Linux内核第3版_英文原版
+  - 深入理解Linux虚拟内存管理
 - MCU/
+  - ARM Cortex-M3权威指南(中文)
+  - ARM Cortex-M3与Cortex-M4权威指南
+  - cpumemory
+  - DDI0403D_armv7m_arm
+  - DDI0439B_cortex_m4_r0p0_trm
+  - IOMMU_TUTORIAL_ASPLOS_2016
+  - RM0008-STM32F103x8-ReferenceManual
+  - RT-Thread编程指南
+  - STM32F103参考手册
+  - 深入理解计算机系统
 - Network/
+  - IB Specification Vol 1-Release-1.4
+  - IEEE_8023-2018
+  - TCP-IP Illustrated Volunme 1-The Protocols
+  - TCP-IP详解卷1：协议
+  - understanding-linux-network-internals
+  - 深入浅出DPDK
+  - 图解TCPIP
 - Notes/
 - Others/
+  - C#图解教程
+  - pidWithoutAPhd
+  - progit_v2.1.47
+  - PythonCookbook
+  - 大话数据结构
 - Protocol/
+  - D1T1-2 - USB Type-C System Overview
+  - D2T1-4 - VESA DP Alt Mode over USB Type-C
+  - DP_Alt_Mode_on_USB_Type-C_v1.0a_mem
+  - DP_v1.4a_mem
+  - i2c_bus_specification_and_user_manual
+  - MIPI-I3C-Basic-Specification-v1-2-public-edition
+  - PMBus_Specification_Part_I_Rev_1_3_1_20150313
+  - SMBus_3_3_20240512
+  - USB PD3 CTS Q2 2026 OR
+  - USB Type C Functional Test Specification 2024 03 03
+  - USB Type-C Connector System Software Interface UCSI Revision_3.0  CLEAN
+  - USB Type-C Spec R2.5 - March 2026
+  - usb_20
+  - USB_PD_R2_0 V1.3 - 20170112
+  - USB_PD_R3.2_V1.2_2026_03_17
+  - USB_PD_R3_2 V1.1 2024-10
+  - USB_TCPCI_R2_V1p3_30122_CLEAN
